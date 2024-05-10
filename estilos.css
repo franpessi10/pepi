@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.logo{
+    position: fixed;
+}
+.a{
+    position: relative;
+    display: inline;
+    padding: 3.2em;
+    font-size: 220%;
+    bottom: 0em;
+}
+header{
+    background-color: #9de35fab;
+    padding: 2em;
+}
+body{
+    background-image: url(imagenes/naturaleza.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    overflow-x: hidden;
+}
